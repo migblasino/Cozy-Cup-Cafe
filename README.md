@@ -23,8 +23,9 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 
 ## Screen Captures
+<div>
   <img src="348s.jpg" alt="salmon omelet" width="150">
-        
+</div>      
 ## About the Authors
 
 <img src="https://avatars.githubusercontent.com/u/156798121?v=4" alt="Your GitHub Profile Picture" width="150" style="border-radius: 50%;">
