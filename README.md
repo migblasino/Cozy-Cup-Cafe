@@ -7,28 +7,21 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 ## Features
 <p><b>Cozy Cup Cafe Features:</b>
 
-<b>Handcrafted Brews:</b> Indulge in the rich and aromatic experience of our meticulously crafted coffee and artisanal tea selections.
+<b>Handcrafted Brews:</b>   Indulge in the rich and aromatic experience of our meticulously crafted coffee and artisanal tea selections.
 
-<b>Delectable Treats:</b> Treat your taste buds to a delightful array of freshly baked pastries, cakes, and snacks, perfectly paired with our beverages.
+<b>Delectable Treats:</b>   Treat your taste buds to a delightful array of freshly baked pastries, cakes, and snacks, perfectly paired with our beverages.
 
-<b>Warm Atmosphere:</b> Enjoy the inviting ambiance of our cafe, designed to create a cozy and comfortable space for relaxation and connection.
+<b>Warm Atmosphere:</b>     Enjoy the inviting ambiance of our cafe, designed to create a cozy and comfortable space for relaxation and connection.
 
-<b>Community Hub:</b> Cozy Cup Cafe is more than a coffee shop; it's a community hub where friends gather, ideas flow, and connections are made.
+<b>Community Hub:</b>       Cozy Cup Cafe is more than a coffee shop; it's a community hub where friends gather, ideas flow, and connections are made.
 
-<b>Live Events:</b> Immerse yourself in the vibrant energy of our live events, featuring music, art, and gatherings that bring people together.
+<b>Live Events:</b>         Immerse yourself in the vibrant energy of our live events, featuring music, art, and gatherings that bring people together.
 
 <b>Comfortable Seating:</b> Whether you're here for work or leisure, our comfortable seating options cater to a variety of preferences.
 
 Friendly Service: Experience hospitality at its finest with our friendly and knowledgeable staff ready to make your visit memorable.</p>
 ## Screen Captures
-  <div><img src="[path/to/348s.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/__woJry4vJR4HPK4i7Rw2g/o.jpg)" alt="salmon omelet" width="150" style="border-radius: 50%;">
-        <p>Salmon omlet, got pancakes instead of reg toast!</p></div>
-         <div><img src="[path/to/o.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/DsHjEAme_QeR93Q9Wtlxsw/o.jpg)" alt="Ground beef and spinach" width="150" style="border-radius: 50%;">
-        <p>Ground beef and spinach in the SF scramble... Delish!.</p></div>
-         <div><img src="[path/to/ss.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/rUse821rRQdpe21dsM7S1Q/o.jpg)" alt="Verde chilaquiles" width="150" style="border-radius: 50%;">
-        <p>Verde chilaquiles and country fried steak</p></div>
-         <div><img src="[path/to/dd.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/UMkRuFfX0UnDtyC73tYthA/o.jpg)" alt="Sausage, two eggs, country potatoes" width="150" style="border-radius: 50%;">
-        <p>Sausage, two eggs, country potatoes, and a biscuit with gravy.</p></div>
+  
         
 ## About the Authors
 
