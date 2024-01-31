@@ -21,14 +21,14 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 Friendly Service: Experience hospitality at its finest with our friendly and knowledgeable staff ready to make your visit memorable.</p>
 ## Screen Captures
-  <img src="[path/to/348s.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/__woJry4vJR4HPK4i7Rw2g/o.jpg)" alt="salmon omelet" width="150" style="border-radius: 50%;">
-        <p>Salmon omlet, got pancakes instead of reg toast!</p>
-        <img src="[path/to/o.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/DsHjEAme_QeR93Q9Wtlxsw/o.jpg)" alt="Ground beef and spinach" width="150" style="border-radius: 50%;">
-        <p>Ground beef and spinach in the SF scramble... Delish!.</p>
-        <img src="[path/to/ss.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/rUse821rRQdpe21dsM7S1Q/o.jpg)" alt="Verde chilaquiles" width="150" style="border-radius: 50%;">
-        <p>Verde chilaquiles and country fried steak</p>
-        <img src="[path/to/dd.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/UMkRuFfX0UnDtyC73tYthA/o.jpg)" alt="Sausage, two eggs, country potatoes" width="150" style="border-radius: 50%;">
-        <p>Sausage, two eggs, country potatoes, and a biscuit with gravy.</p>
+  <div><img src="[path/to/348s.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/__woJry4vJR4HPK4i7Rw2g/o.jpg)" alt="salmon omelet" width="150" style="border-radius: 50%;">
+        <p>Salmon omlet, got pancakes instead of reg toast!</p></div>
+         <div><img src="[path/to/o.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/DsHjEAme_QeR93Q9Wtlxsw/o.jpg)" alt="Ground beef and spinach" width="150" style="border-radius: 50%;">
+        <p>Ground beef and spinach in the SF scramble... Delish!.</p></div>
+         <div><img src="[path/to/ss.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/rUse821rRQdpe21dsM7S1Q/o.jpg)" alt="Verde chilaquiles" width="150" style="border-radius: 50%;">
+        <p>Verde chilaquiles and country fried steak</p></div>
+         <div><img src="[path/to/dd.jpg](https://s3-media0.fl.yelpcdn.com/bphoto/UMkRuFfX0UnDtyC73tYthA/o.jpg)" alt="Sausage, two eggs, country potatoes" width="150" style="border-radius: 50%;">
+        <p>Sausage, two eggs, country potatoes, and a biscuit with gravy.</p></div>
         
 ## About the Authors
 
