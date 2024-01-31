@@ -24,7 +24,14 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 ## Screen Captures
 
-
+ <img src="captures/348s.jpg" alt="Salmon omlet" width="150">
+        <p>Salmon omlet, got pancakes instead of reg toast!</p>
+         <img src="captures/dd.jpg" alt="Sausage, two eggs, country potatoes" width="150">
+        <p>Sausage, two eggs, country potatoes, and a biscuit with gravy.</p>
+         <img src="captures/o.jpg" alt="Ground beef and spinach" width="150">
+        <p>Ground beef and spinach in the SF scramble... Delish!</p>
+         <img src="captures/ss.jpg" alt="Verde chilaquiles" width="150">
+        <p>Verde chilaquiles and country fried steak</p>
 
 
 
