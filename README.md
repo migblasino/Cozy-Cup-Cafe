@@ -12,5 +12,11 @@
 
 # Name: Jose Miguel N. Blass II
 # Email: miguelbryson348@gmail.com
-[![Facebook](./icons/Facebook.png)](https://github.com/migblasino)
-[![Github](./icons/Github.png)]()
+
+<a href="https://github.com/migblasino">
+  <img src="./images/Github.png" alt="Github" width="50">
+</a>
+<a href="https://github.com/migblasino">
+  <img src="./images/Facebook.png" alt="Facebook" width="50">
+</a>
+
