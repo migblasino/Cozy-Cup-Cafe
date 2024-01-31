@@ -24,13 +24,7 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 ## Screen Captures
 
-<body>
-<div>
-        <img src="(https://www.yelp.com/biz_photos/cozy-cup-cafe-hollister?select=__woJry4vJR4HPK4i7Rw2g)" alt="Image 1" width="300">
-        <p>Description for Image 1.</p>
-    </div>
-    
-</body>
+<img src=348s.jpg>
 
 
 ## About the Authors
