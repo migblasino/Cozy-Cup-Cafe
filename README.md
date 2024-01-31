@@ -21,13 +21,13 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 Friendly Service: Experience hospitality at its finest with our friendly and knowledgeable staff ready to make your visit memorable.</p>
 ## Screen Captures
-  <img src="348s.jpg" alt="salmon omelet" width="150" style="border-radius: 50%;">
+  <img src="path/to/348s.jpg" alt="salmon omelet" width="150" style="border-radius: 50%;">
         <p>Salmon omlet, got pancakes instead of reg toast!</p>
-        <img src="o.jpg" alt="Ground beef and spinach" width="150" style="border-radius: 50%;">
+        <img src="path/to/o.jpg" alt="Ground beef and spinach" width="150" style="border-radius: 50%;">
         <p>Ground beef and spinach in the SF scramble... Delish!.</p>
-        <img src="ss.jpg" alt="Verde chilaquiles" width="150" style="border-radius: 50%;">
+        <img src="path/to/ss.jpg" alt="Verde chilaquiles" width="150" style="border-radius: 50%;">
         <p>Verde chilaquiles and country fried steak</p>
-        <img src="dd.jpg" alt="Sausage, two eggs, country potatoes" width="150" style="border-radius: 50%;">
+        <img src="path/to/dd.jpg" alt="Sausage, two eggs, country potatoes" width="150" style="border-radius: 50%;">
         <p>Sausage, two eggs, country potatoes, and a biscuit with gravy.</p>
 ## About the Authors
 
