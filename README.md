@@ -12,3 +12,5 @@
 
 # Name: Jose Miguel N. Blass II
 # Email: miguelbryson348@gmail.com
+[![Facebook](./icons/Facebook.png)](https://github.com/migblasino)
+[![Github](./icons/Github.png)]()
