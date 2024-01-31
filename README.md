@@ -19,9 +19,11 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 <b>Comfortable Seating:</b> Whether you're here for work or leisure, our comfortable seating options cater to a variety of preferences.
 
-Friendly Service: Experience hospitality at its finest with our friendly and knowledgeable staff ready to make your visit memorable.</p>
+<b>Friendly Service:</b> Experience hospitality at its finest with our friendly and knowledgeable staff ready to make your visit memorable.</p>
+
+
 ## Screen Captures
-  
+  <img src="348s.jpg" alt="salmon omelet" width="150">
         
 ## About the Authors
 
