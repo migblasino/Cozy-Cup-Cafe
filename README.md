@@ -24,7 +24,7 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 ## Screen Captures
 
-<img src=348s.jpg>
+<img src=captures/348s.jpg>
 
 
 ## About the Authors
